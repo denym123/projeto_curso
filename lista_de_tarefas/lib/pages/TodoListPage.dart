@@ -32,7 +32,7 @@ class _TodoListPageState extends State<TodoListPage> {
                         decoration: InputDecoration(
                             border: OutlineInputBorder(),
                             labelText: 'Adicione uma tarefa',
-                            hintText: 'Ex. Recusar o pão com banana'),
+                            hintText: 'Ex. Comprar o pão com banana'),
                       ),
                     ),
                     SizedBox(width: 16),
